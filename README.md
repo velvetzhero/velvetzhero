@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Michel Sellam
-- 👀 I’m interested in Python, Django, CPP and Nim
+- 👀 I’m interested in Python, Django, CPP Nim and Rust
 - 🌱 I’m currently learning Nim and CPP
-- 💞️ I’m looking to collaborate on anything intersting
-- 📫 How to reach me velvetzhero@gmail.com
+- 💞️ I’m looking to collaborate on anything interesting
+- 📫 Hit me 
 
 <!---
 velvetzhero/velvetzhero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
